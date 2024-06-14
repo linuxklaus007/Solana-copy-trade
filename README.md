@@ -1,6 +1,6 @@
 # Solana-copy-trade Solmimic
 
-![Solcopy Logo](https://github.com/linuxklaus007/Solana-copy-trade/edit/main/photo.png)
+![Solcopy Logo](https://github.com/linuxklaus007/Solana-copy-trade/blob/main/photo.png)
 
 SolMimic is an innovative software for copytrading or watching on the Solana blockchain. 
 
