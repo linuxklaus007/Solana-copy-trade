@@ -27,7 +27,7 @@ SolMimic is an innovative software for copytrading or watching on the Solana blo
 
 ## How to use
 
-To get started with Solcopy, follow these steps:
+To get started with SolMimic, follow these steps:
 
 1. **Download and extract the files**
 2. **Install dependencies**
